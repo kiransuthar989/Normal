@@ -1,1 +1,1 @@
-It execute the Quine Mccluskey method without Don't care
+It execute the Quine Mccluskey method without Don't care.
