@@ -1,1 +1,0 @@
-It's executable file of Quine Mccluskey with Don't care condition. 
