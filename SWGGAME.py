@@ -6,7 +6,7 @@ b = 0
 while i < 11 :
     choose = ["G", "S", "W"]
     Rchoose = random.choice(choose)
-    user_choice = input("Enter your choice = \n ")
+    user_choice = input("Enter your choice snake(S), water(W), gun(G) = \n ")
     if user_choice.upper() == Rchoose:
         print("play again")
         continue
